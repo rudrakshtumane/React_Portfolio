@@ -16,6 +16,9 @@ const Contact = () => {
             <a className="my-4 border-b"> {CONTACT.email}</a>
         </div>
         </div>
+
+
+    // 
   )
 }
 
