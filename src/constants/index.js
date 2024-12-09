@@ -22,29 +22,29 @@ export const PROJECTS = [
     title: "E-Commerce Website",
     image: project1,
     description:
-      "A fully functional e-commerce website with features like product listing, shopping cart, and user authentication.",
+      "A fully functional e-commerce website with features like product listing, and user authentication offers a robust, scalable, and visually appealing platform for online shopping.",
     technologies: ["HTML", "Tailwind CSS", "React", "Node.js", "MongoDB"],
   },
   {
-    title: "Task Management App",
+    title: "Event Management System",
     image: project2,
     description:
-      "An application for managing tasks and projects, with features such as task creation, assignment, and progress tracking.",
+      "An Event Management System is a platform designed to streamline the process of organizing, discovering, and booking tickets for events. Built with modern web technologies, the system ensures a smooth experience for event organizers and attendees.",
     technologies: ["HTML", "Tailwind CSS", "React", "Node.js", "MongoDB"],
   },
   {
-    title: "Portfolio Website",
+    title: "Book Haven",
     image: project3,
     description:
-      "A personal portfolio website showcasing projects, skills, and contact information.",
-    technologies: ["HTML", "CSS", "React", "Bootstrap"],
+      "Book Haven is a online book store application developed using WeWeb (for frontend) and Xano (for backend) provides a dynamic, no-code/low-code solution for small-scale e-commerce platforms. This application supports two distinct user roles, Store Owner and Customer, with tailored functionalities.",
+    technologies: ["WeWeb", "Xano"],
   },
   {
-    title: "Blogging Platform",
+    title: "Time Keeper",
     image: project4,
     description:
-      "A platform for creating and publishing blog posts, with features like rich text editing, commenting, and user profiles.",
-    technologies: ["HTML", "Tailwind CSS", "Vite + React", "Node.js", "MongoDB"],
+      "Time Keeper is a Watch Store Application built with WeWeb for the frontend and Xano for the backend offers an efficient platform for managing and purchasing luxury or casual watches. ",
+    technologies: ["WeWeb", "Xano"],
   },
 ];
 
